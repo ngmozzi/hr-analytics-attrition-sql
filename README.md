@@ -1,6 +1,6 @@
-# Exploratory People Analytics: Identifying Attrition Patterns in Workforce Data
+(**Phase 2:** [Predictive Attrition Model (Python/scikit-learn)](https://github.com/ngmozzi/hr-analytics-attrition-model))
 
-**Phase 2:** [Predictive Attrition Model (Python/scikit-learn)](https://github.com/ngmozzi/hr-analytics-attrition-model)
+# Exploratory People Analytics: Identifying Attrition Patterns in Workforce Data
 
 ## Project Overview
 

@@ -1,5 +1,7 @@
 # Exploratory People Analytics: Identifying Attrition Patterns in Workforce Data
 
+**Phase 2:** [Predictive Attrition Model (Python/scikit-learn)](https://github.com/ngmozzi/hr-analytics-attrition-model)
+
 ## Project Overview
 
 This project uses SQL to analyze the IBM HR Analytics Attrition dataset, a synthetic 
